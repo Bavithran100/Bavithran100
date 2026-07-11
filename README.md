@@ -37,13 +37,13 @@ Outside of research, I enjoy building backend applications with Spring Boot, dep
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
 ### Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,django" />
+<img src="https://skillicons.dev/icons?i=spring," />
 </p>
 
 ### Frontend
@@ -118,7 +118,7 @@ Outside of research, I enjoy building backend applications with Spring Boot, dep
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Bavithran777?theme=dark&font=baloo&ext=contest"/>
 
 </p>
 
@@ -168,9 +168,9 @@ Outside of research, I enjoy building backend applications with Spring Boot, dep
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-<a href="https://YOUR_PORTFOLIO/">Portfolio</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://www.linkedin.com/in/bavithran-n-04b74b333">LinkedIn</a> •
+<a href="https://bavithran.vercel.app">Portfolio</a> •
+<a href="mailto:bavithrannatarajan@gmail.com">Email</a>
 
 </p>
 
