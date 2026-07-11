@@ -1,201 +1,183 @@
 <h1 align="center">Hi 👋, I'm Bavithran Natarajan</h1>
-<h3 align="center">Software Engineer • AI Research Intern • Backend Developer • Cloud Enthusiast</h3>
+
+<h3 align="center">
+Software Engineer • AI Research Intern • Backend Developer • Cloud Enthusiast
+</h3>
 
 <p align="center">
-Building scalable backend systems, cloud-native applications, and AI-powered computer vision solutions.
+I enjoy building scalable backend systems, exploring cloud technologies, and applying Artificial Intelligence to solve real-world engineering problems.
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 Final Year Electronics & Communication Engineering Student
-- 🏢 AI Research Intern at **CSIR – CEERI Chennai**
-- 💻 Passionate about Backend Engineering, Distributed Systems & Cloud
-- ☁ Currently learning **AWS Cloud & DevOps**
-- 🤖 Researching **Maritime Thermal Object Detection & Multi-Object Tracking**
-- 🌱 Always learning something new in Software Engineering
+I'm an Electronics and Communication Engineering student passionate about software engineering, cloud computing, and artificial intelligence.
 
----
+Currently, I'm working as an **AI Research Intern at CSIR – Chennai**, where I'm involved in developing AI-powered solutions in computer vision and machine learning. My current research focuses on **maritime thermal object detection & multi-object tracking** and an **AI-powered prosthetic hand** using IMU sensors and machine learning.
 
-## 🔭 Current Work
-
-- 🚢 Maritime Thermal Object Detection using **YOLO26**
-- 🎯 Multi-Object Tracking using **BoT-SORT**
-- ☁ Deploying applications on **AWS EC2**
-- ⚙ Learning Kubernetes, Docker and System Design
-- 📚 Solving Data Structures & Algorithms every day
+Outside of research, I enjoy building backend applications with Spring Boot, deploying applications to the cloud, solving algorithmic problems, and learning how large-scale software systems work—from operating systems and networking to distributed systems and cloud infrastructure.
 
 ---
 
-## 💼 Featured Projects
+# 🚀 Current Focus
 
-### 🚢 Maritime Thermal Object Detection & Tracking
-> AI Research Project @ CSIR – CEERI
-
-- Thermal Image Enhancement (CLAHE + Bilateral Filtering)
-- YOLO26 Fine-Tuning
-- BoT-SORT Tracking
-- Multi-Dataset Training
-- Future RGB + Thermal Fusion
-
----
-
-### 💳 BillEase
-
-A complete Bill Reminder & Expense Management System
-
-**Tech Stack**
-
-- Spring Boot
-- MySQL
-- Thymeleaf
-- Spring Security
-- Scheduled Tasks
-
-Features
-
-- User Authentication
-- Recurring Bills
-- Payment Tracking
-- Notifications
-- Reports
+- 🔬 AI Research Intern @ CSIR – Chennai
+- 🚢 Maritime Thermal Object Detection & Tracking
+- 🦾 AI-powered Prosthetic Hand Research
+- ☁ Learning AWS Cloud
+- ⚙ Learning Kubernetes & Docker
+- 🏗 High-Level System Design
+- 📚 Solving Data Structures & Algorithms
 
 ---
 
-### 📅 Online Appointment Booking System
-
-- Spring Boot
-- MySQL
-- Thymeleaf
-- Jitsi Video Meeting
-- Secure Authentication
-
----
-
-### 🥗 NutriMind
-
-AI Powered Nutrition Assistant
-
-- React
-- Django
-- MongoDB Atlas
-- Hugging Face API
-
----
-
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-- Java
-- Python
-- JavaScript
-- SQL
-- C++
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
+</p>
 
 ### Backend
 
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Django
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,django" />
+</p>
 
 ### Frontend
 
-- React
-- HTML
-- CSS
-- Bootstrap
-- Thymeleaf
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
 
 ### Database
 
-- MySQL
-- MongoDB
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### Cloud & DevOps
 
-- AWS
-- Docker
-- Kubernetes
-- GitHub Actions
-- Nginx
-- Linux
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,nginx,postman" />
+</p>
 
-### AI / ML
+### AI / Computer Vision
 
-- PyTorch
-- OpenCV
-- Ultralytics YOLO
-- BoT-SORT
-- ByteTrack
-- Computer Vision
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+# 📊 GitHub Statistics
 
-- AWS Solutions Architecture
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bavithran100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavithran100&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Bavithran100&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bavithran100&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Bavithran100/Bavithran100/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+🏆 AI Research Intern @ CSIR – Chennai
+
+🥈 Runner-up – Createathon 2024 Web Hackathon
+
+💻 400+ Problems Solved on LeetCode
+
+🏅 1000+ Problems Solved on SkillRack
+
+📚 Passionate about building scalable software systems
+
+---
+
+# 🌱 Currently Learning
+
+- AWS
 - Kubernetes
 - Distributed Systems
-- High Level System Design
-- Networking
+- High-Level System Design
+- Linux
 - Operating Systems
+- Computer Networks
+- Large Language Models (LLMs)
 
 ---
 
-## 🎯 Interests
+# ❤️ Interests
 
 - Backend Engineering
 - Cloud Computing
 - Artificial Intelligence
 - Computer Vision
 - Distributed Systems
-- Scalable Software Architecture
+- Software Architecture
+- Open Source
+- DevOps
 
 ---
 
-## 📈 GitHub Stats
+# 📫 Connect With Me
 
-<!-- GitHub Stats Card -->
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+<a href="https://YOUR_PORTFOLIO/">Portfolio</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
 
-## 🔥 Contribution Streak
-
-<!-- GitHub Streak -->
-
----
-
-## 📊 Activity Graph
-
-<!-- Activity Graph -->
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+<p align="center">
 
-<!-- Snake Animation -->
+<i>"Building software that solves real-world problems, one commit at a time."</i>
 
----
-
-## 🏆 Achievements
-
-- 🏢 AI Research Intern at CSIR – CEERI Chennai
-- 🚢 Maritime AI Research
-- 💻 Built Multiple Full Stack Applications
-- ☁ AWS Cloud Learner
-- 📚 Active Competitive Programmer
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://yourportfolio.com
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: yourmail@gmail.com
-
----
-
-> "Great software is built by continuously learning, solving problems, and improving every single day."
+</p>
